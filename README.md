@@ -5,6 +5,7 @@ Se ingresa un mes y un año, devuelve array's para los dias con valores aleatori
 ### Instalacion
 
 $ git clone https://github.com/danielpalza/Page_react.git
+
 $ npm install
 
 ### Uso
